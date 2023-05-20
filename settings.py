@@ -18,7 +18,7 @@ FEEDS = {
 }
 
 # Setando as configurações do middleware a respeito dos user-agents
-SCRAPEOPS_API_KEY = '5947c995-837c-41df-8e3b-be4dfe3a6987'
+SCRAPEOPS_API_KEY = ''
 SCRAPEOPS_FAKE_USER_AGENT_ENDPOINT = 'https://headers.scrapeops.io/v1/user-agents'
 SCRAPEOPS_FAKE_USER_AGENT_ENABLED = True
 SCRAPEOPS_NUM_RESULTS = 50
